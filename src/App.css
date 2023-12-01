@@ -1,5 +1,5 @@
 .br {
-    border: 1px solid red;
+    border: 1px solid blue;
 }
 
 .mainBox {
@@ -21,7 +21,7 @@
 }
 
 .outputResult {
-    border: 10px solid #a7233a;
+    border: 10px solid #00417c;
     border-radius: 20px;
     padding: 20px;
     font-size: 22px;
@@ -37,7 +37,7 @@ textarea {
 }
 
 .navbar {
-    background-color: #a7233a;
+    background-color: #00417c;
     display: flex;
     justify-content: center;
 }
@@ -51,7 +51,7 @@ textarea {
 .icon {
     width: 30px;
     height: 30px;
-    color: #a7233a;
+    color: #004e95;
     padding: 10px;
     border-radius: 50%;
     transition: all 1s ease-in-out;
@@ -59,7 +59,7 @@ textarea {
 }
 
 .icon:hover {
-    background-color: #a7233a;
+    background-color: #004e95;
     color: white;
 }
 
@@ -115,7 +115,7 @@ select::-ms-expand {
 
 /* Transition */
 .select:hover::after {
-    color: #a7233a;
+    color: #0065c1;
 }
 
 .tagLine {
@@ -124,7 +124,7 @@ select::-ms-expand {
     margin-top: 70px;
 }
 
-#madeByMohit {
+#madeByKevin {
     width: 0ch;
     overflow: hidden;
     white-space: nowrap;
