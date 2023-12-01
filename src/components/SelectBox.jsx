@@ -7,12 +7,13 @@ export const SelectBox = ({ id, select }) => {
                     <option value="">Select Language</option>
                     <option value="en">English</option>
                     <option value="ar">Arabic</option>
+                    <option value="jp">Japanese</option>
                     <option value="id">Indonesia</option>
-                    <option value="hi"> Hindi</option>
+                    <option value="hi">Hindi</option>
                     <option value="es">Spanish</option>
                     <option value="de">German</option>
-                    <option value="fr"> French</option>
-                    <option value="tr"> Turkish</option>
+                    <option value="fr">French</option>
+                    <option value="tr">Turkish</option>
                 </select>
             </div>
         </>
